@@ -1,2 +1,4 @@
 class person()
     pass
+p1:person=person()
+print(type(p1))
