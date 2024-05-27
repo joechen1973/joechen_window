@@ -14,4 +14,4 @@ with open("aqi2.csv", 'wb') as fd:
     for chunk in res.iter_content(chunk_size=128):
         fd.write(chunk)
 
-作業程式連結：[lession3.ipynb] (https://github.com/joechen1973/joechen_window/blob/main/%E9%A1%9E%E5%88%A5/lession3.ipynb)
+作業程式連結：[lession3.ipynb] (https://github.com/joechen1973/joechen_window/blob/main/homework/Issues%236/lession3.ipynb)
