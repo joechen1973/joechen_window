@@ -1,5 +1,5 @@
 # 這是第二次作業
-## 作業二程式碼(https://github.com/joechen1973/joechen_window/blob/main/homework/Issues%236/lession3.ipynb)
+[作業二程式碼](https://github.com/joechen1973/joechen_window/blob/main/homework/Issues%236/lession3.ipynb)
 
 ## 請將以下網址的json,儲存為aqi.json檔
 
