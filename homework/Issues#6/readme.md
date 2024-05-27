@@ -13,4 +13,3 @@ res:Response = requests.get(url=url)
 with open("aqi2.csv", 'wb') as fd:
     for chunk in res.iter_content(chunk_size=128):
         fd.write(chunk)
-
