@@ -1,5 +1,5 @@
 # 這是第二次作業
-## 作業二程式碼
+## 作業二程式碼(https://github.com/joechen1973/joechen_window/blob/main/homework/Issues%236/lession3.ipynb)
 
 ## 請將以下網址的json,儲存為aqi.json檔
 
@@ -13,5 +13,3 @@ res:Response = requests.get(url=url)
 with open("aqi2.csv", 'wb') as fd:
     for chunk in res.iter_content(chunk_size=128):
         fd.write(chunk)
-
-作業程式連結：[lession3.ipynb] (https://github.com/joechen1973/joechen_window/blob/main/homework/Issues%236/lession3.ipynb)
