@@ -17,7 +17,9 @@ class window(tk.Tk):
         label.pack(padx=100,pady=40)
 
         #layout有三種,pack是一種,pack是一種實體方法
-
+    #    pack = pack_configure
+    # forget = pack_forget
+    # propagate = Misc.pack_propagate
 
 if __name__ == '__main__':
     names:list[str] = get_names()
